@@ -1,0 +1,20 @@
+GIT      = Ferrementa para Versionamento
+GIT BASH = Ferramenta para o GIT
+GIT HUB  = Rede Social onde posso enviar meus projetos do GIT
+
+
+Registrar NOME e E-MAIL
+-----------------------
+git config --global user.email "Leonardo Augusto"
+git config --global user.email "rm93485@fiap.com.br"
+
+-----------------------
+Consultar NOME e E-MAIL
+-----------------------
+git config user.name
+git config user.email
+
+-----------------------
+Inicia o versionamento
+-----------------------
+git init
